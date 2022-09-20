@@ -13,7 +13,7 @@ Then, MATLAB code <code>plotsim.mat</code> is used to plot the output data (<cod
 
 ## Directories
 ### doc
-This folder contains the initial project specification and the final report for the project.
+This folder contains the initial project specification, the final report for the project and a short explanation video.
 
 ### include
 This folder contains all the header files.
