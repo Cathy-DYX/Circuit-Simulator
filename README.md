@@ -20,3 +20,6 @@ This folder contains all the header files.
 
 ### src
 This folder contains all the cpp source code files.
+
+### test
+This folder contains some examples of the input circuits in the form of netlists. These can be used to test the program.
